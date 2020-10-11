@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+    
+        <title>Casper</title>
+        <link></link>
+        <description>A port of the ghastly theme for Blades</description>
+        <ttl>1440</ttl>
+        <generator>razor</generator>
+        <pubDate>Sun, 11 Oct 2020 16:22:59 GMT</pubDate>
+        
+    
+    
+        <item>
+            <title>Index</title>
+            <link>/</link>
+            <description></description>
+            <pubDate>Sun, 11 Oct 2020 15:21:50 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>A gallery</title>
+            <link>/gallery.html</link>
+            <description><p>Open this post to see a gallery!</p>
+</description>
+            <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>A trash can.</title>
+            <link>/gallery/tiles.html</link>
+            <description>a view of reality</description>
+            
+            <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>A manor</title>
+            <link>/gallery/manor.html</link>
+            <description>a view from reality</description>
+            
+            <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>A brick factory</title>
+            <link>/gallery/factory.html</link>
+            <description>a view above reality</description>
+            
+            <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>A couch outside</title>
+            <link>/gallery/real.html</link>
+            <description>a view with reality</description>
+            
+            <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>Mu</title>
+            <link>/mu.html</link>
+            <description><p>A monk asked Joshu, &quot;Has the dog the Buddha nature?&quot; </p>
+</description>
+            <pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>Jabberwocky</title>
+            <link>/jabberwocky.html</link>
+            <description><p>’Twas brillig, and the slithy toves<br />
+Did gyre and gimble in the wabe:<br />
+All mimsy were the borogoves,<br />
+And the mome raths outgrabe.</p>
+</description>
+            <pubDate>Fri, 17 May 2019 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>Gutei's Finger</title>
+            <link>/finger.html</link>
+            <description><p>Gutei raised his finger whenever he was asked a question about Zen. A boy attendant began to imitate him in this way. When a visitor asked the boy what his master had preached about, the boy raised his finger.</p>
+</description>
+            <pubDate>Wed, 12 Dec 2018 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>Nansen cuts a cat in two</title>
+            <link>/half-cat.html</link>
+            <description><p>Nansen saw the monks of the eastern and western halls fighting over a baby cat. He seized the cat and said, &quot;If (any of) you can say (a word of Zen), you can spare the cat. Otherwise I will kill it.&quot;</p>
+</description>
+            <pubDate>Sat, 07 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>About</title>
+            <link>/about/</link>
+            <description></description>
+            <pubDate>Sun, 11 Oct 2020 15:21:50 GMT</pubDate>
+        </item>
+        
+    
+    </channel>
+</rss>

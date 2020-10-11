@@ -1,0 +1,31 @@
+{{>head.html}}
+<body>
+<div id="gallerycont">
+{{#current}}
+<a class="control-button" href="{{#parent}}{{permalink}}{{/parent}}#{{pid}}"></a>
+<figure id="gallery-figure">
+    <picture>
+		<source type="image/jpeg" srcset="/img/full/{{file}}.jpg">
+		<img class="gallery-photo" alt="{{alt}}" src="/img/full/{{file}}.jpg"/>
+    </picture>
+    <figcaption class="gallery-caption">{{caption}}</figcaption>
+</figure>
+</div>
+
+<div id="gallery-navigation">
+{{/current}}
+    <div id="arrows">
+        {{#previous}}<a id="arrow-left" class="newer-posts nav-button" href="{{permalink}}">←</a>{{/previous}}
+        {{#next}}<a id="arrow-right" class="older-posts nav-button" href="{{permalink}}">→</a>{{/next}}
+    </div>
+</div>
+{{#next}}
+<link rel="prefetch" href="{{permalink}}">
+<link rel="prefetch" href="/img/{{file}}.jpg">
+{{/next}}
+{{#previous}}
+<link rel="prefetch" href="{{permalink}}">
+<link rel="prefetch" href="/img/{{file}}.jpg">
+{{/previous}}
+</body>
+</html>

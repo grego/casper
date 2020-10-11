@@ -1,0 +1,20 @@
+<nav class="main-nav overlay clearfix">
+    <div class="blog-logo">
+        <a class="breadcrumb" href="{{#site}}{{url}}{{/site}}/">{{#site}}{{title}}{{/site}}</a>
+        {{#taxonomy}} / <a class="breadcrumb" href="{{#site}}{{url}}{{/site}}/{{slug}}">{{slug}}</a>{{/taxonomy}}
+        {{#slug}} / <a class="breadcrumb" href="#">{{slug}}</a>{{/slug}}
+        {{^slug}} / <a class="breadcrumb" href="#">{{title}}</a>{{/slug}}
+    </div>
+    <div id="menu">
+        <input id="burger-check" class="control-button" type="checkbox">
+        <aside id="nav">
+          {{#index}}<a href="{{permalink}}">home</a>
+          {{#subsections}}
+          <a href="{{permalink}}/">{{title}}</a>
+          {{/subsections}}{{/index}}
+          {{#classification}}{{#categories}}{{#keys}}
+          <a href="{{#site}}{{url}}{{/site}}/categories/{{key}}/">{{key}}</a>
+          {{/keys}}{{/categories}}{{/classification}}
+        </aside>
+    </div>
+</nav>

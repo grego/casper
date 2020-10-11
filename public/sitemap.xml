@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>/</loc>
+        <priority>0.5</priority>
+    </url>
+    
+
+    <url>
+        <loc>/gallery.html</loc>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/gallery/tiles.html</loc>
+        <priority>0.1</priority>
+    </url>
+    
+    <url>
+        <loc>/gallery/manor.html</loc>
+        <priority>0.1</priority>
+    </url>
+    
+    <url>
+        <loc>/gallery/factory.html</loc>
+        <priority>0.1</priority>
+    </url>
+    
+    <url>
+        <loc>/gallery/real.html</loc>
+        <priority>0.1</priority>
+    </url>
+    
+
+    <url>
+        <loc>/mu.html</loc>
+        <priority>0.5</priority>
+    </url>
+    
+
+    <url>
+        <loc>/jabberwocky.html</loc>
+        <priority>0.5</priority>
+    </url>
+    
+
+    <url>
+        <loc>/finger.html</loc>
+        <priority>0.5</priority>
+    </url>
+    
+
+    <url>
+        <loc>/half-cat.html</loc>
+        <priority>0.5</priority>
+    </url>
+    
+
+    <url>
+        <loc>/about/</loc>
+        <priority>0.5</priority>
+    </url>
+    
+
+
+    <url>
+        <loc>/tags/</loc>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/lisp/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/food/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/finger/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/pets/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/borogoves/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+
+    <url>
+        <loc>/categories/</loc>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>/categories/poetry/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/categories/kōans/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+
+    <url>
+        <loc>/authors/</loc>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>/authors/Mumon/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/authors/Jane Doe/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/authors/Lewis Carroll/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+
+</urlset>

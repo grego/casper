@@ -1,0 +1,25 @@
+{{>tax_head.html}}
+{{#pages}}
+<article class="post">
+	<header class="post-header">
+    	<h2 class="post-title"><a href="{{permalink}}">{{title}}</a></h2>
+	</header>
+	<section class="post-excerpt"><p>{{summary}}</p></section>
+	{{>post_meta.html}}
+</article>
+{{/pages}}
+
+{{#pagination}}
+<nav class="pagination" role="pagination">
+  {{#previous}}
+    <a class="newer-posts" href="{{#site}}{{url}}{{/site}}/{{#taxonomy}}{{slug}}{{/taxonomy}}/{{title}}/{{previous}}.html">← Newer Posts</a>
+  {{/previous}}
+  <span class="page-number">
+    page {{current}} of {{length}}
+  </span>
+  {{#next}}
+    <a class="older-posts" href="{{#site}}{{url}}{{/site}}/{{#taxonomy}}{{slug}}{{/taxonomy}}/{{title}}/{{next}}.html">Older Posts →</a>
+  {{/next}}
+</nav>
+{{/pagination}}
+{{>foot.html}}

@@ -1,0 +1,8 @@
+{{>head.html}}
+<body class="{{#is_section}}home-template{{/is_section}}{{^is_section}}post-template{{/is_section}}">
+  <div class="site-wrapper">
+    <header {{#is_section}}id="site-head"{{/is_section}} class="main-header{{^is_section}} post-head{{/is_section}}"
+        {{#image}}style="background-image:url('{{#site}}{{url}}{{/site}}/{{image}}')">{{/image}}
+        {{>navigation.html}}
+    </header>
+    <main id="content" class="content" role="main">

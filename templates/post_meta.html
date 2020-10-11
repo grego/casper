@@ -1,0 +1,8 @@
+<section class="post-meta">
+	<time class="post-date" datetime="{{>datetime3399.html}}">{{>date.html}}</time>
+	{{#taxonomies}}
+	<span>{{#authors}}<a class="author" href="{{#site}}{{url}}{{/site}}/authors/{{name}}"> {{name}}</a>{{/authors}}</span>
+    in {{#categories}}<a href="{{#site}}{{url}}{{/site}}/categories/{{name}}">{{name}}</a> {{/categories}}
+    {{#tags}}<a href="{{#site}}{{url}}{{/site}}/tags/{{name}}" class="tag">{{name}}</a>{{/tags}}
+    {{/taxonomies}}
+</section>

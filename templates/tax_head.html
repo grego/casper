@@ -1,0 +1,13 @@
+{{>head.html}}
+<body class="home-template">
+  <div class="site-wrapper">
+    <header class="main-header cat-head">
+        {{>tax_navigation.html}}
+        <div class="vertical">
+          <div class="main-header-content inner">
+            {{#title}}<h1 class="page-title">{{title}}</h1>{{/title}}
+            {{#taxonomy}}<span class="cat-label">in <a href="/{{slug}}/">{{title}}</a></span>{{/taxonomy}}
+          </div>
+        </div>
+    </header>
+    <main id="content" class="content" role="main">
