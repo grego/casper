@@ -1,5 +1,16 @@
 {{>default_head.html}}
-{{#pages}}
+{{#content}}
+<article class="post">
+	<header class="post-header">
+    	<h2 class="post-title">
+			<a href="{{permalink}}">{{title}}</a>
+		</h2>
+	</header>
+	<section class="post-content">
+    	<p>{{content}}</p>
+	</section>
+</article>
+{{/content}}{{#pages}}
 <article class="post">
 	<header class="post-header">
     	<h2 class="post-title">
