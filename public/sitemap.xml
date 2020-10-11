@@ -65,37 +65,6 @@
 
 
     <url>
-        <loc>/tags/</loc>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/lisp/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/food/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/finger/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/pets/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/borogoves/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-
-    <url>
         <loc>/categories/</loc>
         <priority>0.2</priority>
     </url>
@@ -112,12 +81,43 @@
     
 
     <url>
+        <loc>/tags/</loc>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/finger/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/borogoves/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/food/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/lisp/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/pets/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+
+    <url>
         <loc>/authors/</loc>
         <priority>0.2</priority>
     </url>
     
     <url>
-        <loc>/authors/Mumon/</loc>
+        <loc>/authors/Lewis Carroll/</loc>
         <priority>0.3</priority>
     </url>
     
@@ -127,7 +127,7 @@
     </url>
     
     <url>
-        <loc>/authors/Lewis Carroll/</loc>
+        <loc>/authors/Mumon/</loc>
         <priority>0.3</priority>
     </url>
     

@@ -870,6 +870,7 @@ body:not(.post-template) .post-title {
 	 font-size: 1.3rem;
 	 color: #000;
 	 text-align: center;
+	 height: 100%;
 }
 .pagination a {
 	 color: #000;

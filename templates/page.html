@@ -19,4 +19,8 @@
     {{/pictures}}
 	</section>
 </article>
+<nav class="pagination">
+  {{#previous}}<a class="newer-posts" href="{{permalink}}">← Previous: <strong>{{title}}</strong></a>{{/previous}}
+  {{#next}}<a class="older-posts" href="{{permalink}}">Next: <strong>{{title}}</strong> →</a>{{/next}}
+</nav>
 {{>foot.html}}
