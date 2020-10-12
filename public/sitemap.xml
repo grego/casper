@@ -70,11 +70,6 @@
     </url>
     
     <url>
-        <loc>/tags/lisp/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-    <url>
         <loc>/tags/food/</loc>
         <priority>0.3</priority>
     </url>
@@ -86,6 +81,11 @@
     
     <url>
         <loc>/tags/pets/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/lisp/</loc>
         <priority>0.3</priority>
     </url>
     
