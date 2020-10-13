@@ -65,32 +65,17 @@
 
 
     <url>
-        <loc>/tags/</loc>
+        <loc>/categories/</loc>
         <priority>0.2</priority>
     </url>
     
     <url>
-        <loc>/tags/food/</loc>
+        <loc>/categories/poetry/</loc>
         <priority>0.3</priority>
     </url>
     
     <url>
-        <loc>/tags/finger/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/pets/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/lisp/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/borogoves/</loc>
+        <loc>/categories/kōans/</loc>
         <priority>0.3</priority>
     </url>
     
@@ -101,12 +86,12 @@
     </url>
     
     <url>
-        <loc>/authors/Jane Doe/</loc>
+        <loc>/authors/Mumon/</loc>
         <priority>0.3</priority>
     </url>
     
     <url>
-        <loc>/authors/Mumon/</loc>
+        <loc>/authors/Jane Doe/</loc>
         <priority>0.3</priority>
     </url>
     
@@ -117,17 +102,32 @@
     
 
     <url>
-        <loc>/categories/</loc>
+        <loc>/tags/</loc>
         <priority>0.2</priority>
     </url>
     
     <url>
-        <loc>/categories/kōans/</loc>
+        <loc>/tags/finger/</loc>
         <priority>0.3</priority>
     </url>
     
     <url>
-        <loc>/categories/poetry/</loc>
+        <loc>/tags/food/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/lisp/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/pets/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/borogoves/</loc>
         <priority>0.3</priority>
     </url>
     

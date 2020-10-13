@@ -2,12 +2,12 @@
 <rss version="2.0">
     <channel>
     
-        <title>Casper</title>
+        <title>casper</title>
         <link></link>
         <description>A port of the ghastly theme for Blades</description>
         <ttl>1440</ttl>
-        <generator>razor</generator>
-        <pubDate>Mon, 12 Oct 2020 22:10:12 GMT</pubDate>
+        <generator>blades</generator>
+        <pubDate>Tue, 13 Oct 2020 11:24:26 GMT</pubDate>
         
     
     
@@ -30,7 +30,8 @@
         <item>
             <title>A trash can.</title>
             <link>/gallery/tiles.html</link>
-            <description>a view of reality</description>
+            <description><p>a view of reality</p>
+</description>
             
             <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
         </item>
@@ -38,7 +39,8 @@
         <item>
             <title>A manor</title>
             <link>/gallery/manor.html</link>
-            <description>a view from reality</description>
+            <description><p>a view from reality</p>
+</description>
             
             <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
         </item>
@@ -46,7 +48,8 @@
         <item>
             <title>A brick factory</title>
             <link>/gallery/factory.html</link>
-            <description>a view above reality</description>
+            <description><p>a view above reality</p>
+</description>
             
             <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
         </item>
@@ -54,7 +57,8 @@
         <item>
             <title>A couch outside</title>
             <link>/gallery/real.html</link>
-            <description>a view with reality</description>
+            <description><p>a view with reality</p>
+</description>
             
             <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
         </item>

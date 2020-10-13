@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title>Casper</title>
+    <title>casper</title>
     <link rel="related" href="" />
     <id></id>
     
     <subtitle>A port of the ghastly theme for Blades</subtitle>
-    <generator>razor</generator>
-    <updated>2020-10-12T22:10:12Z</updated>
+    <generator>blades</generator>
+    <updated>2020-10-13T11:24:26Z</updated>
 
 
     <entry>
@@ -39,7 +39,8 @@ A picture gallery</p>
         <title>A trash can.</title>
         <link rel="alternate" href="/gallery/tiles.html" />
         <id>/gallery/tiles</id>
-        <summary>a view of reality</summary>
+        <summary><p>a view of reality</p>
+</summary>
         <content><p>Open this post to see a gallery!</p>
 </content>
         
@@ -50,7 +51,8 @@ A picture gallery</p>
         <title>A manor</title>
         <link rel="alternate" href="/gallery/manor.html" />
         <id>/gallery/manor</id>
-        <summary>a view from reality</summary>
+        <summary><p>a view from reality</p>
+</summary>
         <content><p>Open this post to see a gallery!</p>
 </content>
         
@@ -61,7 +63,8 @@ A picture gallery</p>
         <title>A brick factory</title>
         <link rel="alternate" href="/gallery/factory.html" />
         <id>/gallery/factory</id>
-        <summary>a view above reality</summary>
+        <summary><p>a view above reality</p>
+</summary>
         <content><p>Open this post to see a gallery!</p>
 </content>
         
@@ -72,7 +75,8 @@ A picture gallery</p>
         <title>A couch outside</title>
         <link rel="alternate" href="/gallery/real.html" />
         <id>/gallery/real</id>
-        <summary>a view with reality</summary>
+        <summary><p>a view with reality</p>
+</summary>
         <content><p>Open this post to see a gallery!</p>
 </content>
         
