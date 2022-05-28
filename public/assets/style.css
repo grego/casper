@@ -372,10 +372,10 @@ img {
 .site-wrapper {
     position: relative;
     z-index: 10;
-    min-height: 100%;
+    min-height: calc(100% - 6em);
     background: #fff;
     transition: transform 0.5s ease;
-	overflow-x: hidden;
+    overflow-x: hidden;
 }
 
 /* ===================================================================
@@ -425,10 +425,11 @@ img {
 }
 
 #nav a {
-	font-size: 1.1em;
+	font-size: 2rem;
 	text-align: center;
 	text-decoration: none;
 	margin: 1em auto 0 auto;
+	display: block;
 }
 
 /* Create a bouncing scroll-down arrow on homepage with cover image */
@@ -658,9 +659,8 @@ body:not(.post-template) .post-title {
 }
 .post-meta {
 	 display: block;
-	 margin: 1.75rem 0 0 0;
+	 margin: 2rem 0 0 0;
 	 font-size: 1.5rem;
-	 line-height: 4em;
 }
 .post-meta a {
 	 text-decoration: none;
@@ -696,6 +696,10 @@ body:not(.post-template) .post-title {
     content: ",";
 }
 
+.authors {
+    margin-left: 0.3em;
+}
+
 .center {
 	text-align: center;
 }
@@ -704,7 +708,7 @@ body:not(.post-template) .post-title {
     border: 1px #000 solid;
     margin: 0 0.3em;
     border-radius: 4px;
-    padding: 0.3em;
+    padding: 0.5rem;
 }
 
 .tag:hover {
@@ -721,7 +725,11 @@ body:not(.post-template) .post-title {
 }
 
 .footer-content p {
-    margin-bottom: initial;
+    margin-bottom: 0;
+}
+
+.site-footer-nav {
+    float: right;
 }
 
 /* ===================================================================
@@ -754,9 +762,6 @@ body:not(.post-template) .post-title {
 }
 .post-template .post-title {
 	 margin-bottom: 0;
-}
-.post-template .post-meta {
-	 margin: 0;
 }
 .post-template .post-date {
 	 padding: 0;

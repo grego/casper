@@ -7,7 +7,7 @@
         <description>A port of the ghastly theme for Blades</description>
         <ttl>1440</ttl>
         <generator>blades</generator>
-        <pubDate>Tue, 13 Oct 2020 11:24:26 GMT</pubDate>
+        <pubDate>Sat, 28 May 2022 05:48:14 GMT</pubDate>
         
     
     
@@ -15,23 +15,21 @@
             <title>Index</title>
             <link>/</link>
             <description></description>
-            <pubDate>Sun, 11 Oct 2020 15:21:50 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 16:23:27 GMT</pubDate>
         </item>
         
     
         <item>
             <title>A gallery</title>
             <link>/gallery.html</link>
-            <description><p>Open this post to see a gallery!</p>
-</description>
+            <description>Open this post to see a gallery!</description>
             <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
         </item>
         
         <item>
             <title>A trash can.</title>
             <link>/gallery/tiles.html</link>
-            <description><p>a view of reality</p>
-</description>
+            <description>a view of reality</description>
             
             <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
         </item>
@@ -39,8 +37,7 @@
         <item>
             <title>A manor</title>
             <link>/gallery/manor.html</link>
-            <description><p>a view from reality</p>
-</description>
+            <description>a view from reality</description>
             
             <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
         </item>
@@ -48,8 +45,7 @@
         <item>
             <title>A brick factory</title>
             <link>/gallery/factory.html</link>
-            <description><p>a view above reality</p>
-</description>
+            <description>a view above reality</description>
             
             <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
         </item>
@@ -57,8 +53,7 @@
         <item>
             <title>A couch outside</title>
             <link>/gallery/real.html</link>
-            <description><p>a view with reality</p>
-</description>
+            <description>a view with reality</description>
             
             <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
         </item>
@@ -67,8 +62,7 @@
         <item>
             <title>Mu</title>
             <link>/mu.html</link>
-            <description><p>A monk asked Joshu, &quot;Has the dog the Buddha nature?&quot; </p>
-</description>
+            <description>A monk asked Joshu, &quot;Has the dog the Buddha nature?&quot; </description>
             <pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate>
         </item>
         
@@ -76,10 +70,10 @@
         <item>
             <title>Jabberwocky</title>
             <link>/jabberwocky.html</link>
-            <description><p>’Twas brillig, and the slithy toves<br />
-Did gyre and gimble in the wabe:<br />
-All mimsy were the borogoves,<br />
-And the mome raths outgrabe.</p>
+            <description>’Twas brillig, and the slithy toves  
+Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+And the mome raths outgrabe.  
 </description>
             <pubDate>Fri, 17 May 2019 00:00:00 GMT</pubDate>
         </item>
@@ -88,7 +82,7 @@ And the mome raths outgrabe.</p>
         <item>
             <title>Gutei's Finger</title>
             <link>/finger.html</link>
-            <description><p>Gutei raised his finger whenever he was asked a question about Zen. A boy attendant began to imitate him in this way. When a visitor asked the boy what his master had preached about, the boy raised his finger.</p>
+            <description>Gutei raised his finger whenever he was asked a question about Zen. A boy attendant began to imitate him in this way. When a visitor asked the boy what his master had preached about, the boy raised his finger.
 </description>
             <pubDate>Wed, 12 Dec 2018 00:00:00 GMT</pubDate>
         </item>
@@ -97,7 +91,7 @@ And the mome raths outgrabe.</p>
         <item>
             <title>Nansen cuts a cat in two</title>
             <link>/half-cat.html</link>
-            <description><p>Nansen saw the monks of the eastern and western halls fighting over a baby cat. He seized the cat and said, &quot;If (any of) you can say (a word of Zen), you can spare the cat. Otherwise I will kill it.&quot;</p>
+            <description>Nansen saw the monks of the eastern and western halls fighting over a baby cat. He seized the cat and said, &quot;If (any of) you can say (a word of Zen), you can spare the cat. Otherwise I will kill it.&quot;
 </description>
             <pubDate>Sat, 07 Nov 2015 00:00:00 GMT</pubDate>
         </item>
@@ -107,7 +101,7 @@ And the mome raths outgrabe.</p>
             <title>About</title>
             <link>/about/</link>
             <description></description>
-            <pubDate>Sun, 11 Oct 2020 15:21:50 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 16:23:27 GMT</pubDate>
         </item>
         
     

@@ -7,7 +7,7 @@
     
     <subtitle>A port of the ghastly theme for Blades</subtitle>
     <generator>blades</generator>
-    <updated>2020-10-13T11:24:26Z</updated>
+    <updated>2022-05-28T05:48:14Z</updated>
 
 
     <entry>
@@ -16,7 +16,7 @@
         <id></id>
         <summary></summary>
         <content></content>
-        <updated>2020-10-11T15:21:50Z</updated>
+        <updated>2022-05-27T16:23:27Z</updated>
     </entry>
     
 
@@ -24,8 +24,7 @@
         <title>A gallery</title>
         <link rel="alternate" href="/gallery.html" />
         <id>/gallery</id>
-        <summary><p>Open this post to see a gallery!</p>
-</summary>
+        <summary>Open this post to see a gallery!</summary>
         <content><p>This page is just a placeholder<br />
 To show you a functionality<br />
 Of generating<br />
@@ -39,10 +38,8 @@ A picture gallery</p>
         <title>A trash can.</title>
         <link rel="alternate" href="/gallery/tiles.html" />
         <id>/gallery/tiles</id>
-        <summary><p>a view of reality</p>
-</summary>
-        <content><p>Open this post to see a gallery!</p>
-</content>
+        <summary>a view of reality</summary>
+        <content>Open this post to see a gallery!</content>
         
         <updated>2020-09-19T00:00:00Z</updated>
     </entry>
@@ -51,10 +48,8 @@ A picture gallery</p>
         <title>A manor</title>
         <link rel="alternate" href="/gallery/manor.html" />
         <id>/gallery/manor</id>
-        <summary><p>a view from reality</p>
-</summary>
-        <content><p>Open this post to see a gallery!</p>
-</content>
+        <summary>a view from reality</summary>
+        <content>Open this post to see a gallery!</content>
         
         <updated>2020-09-19T00:00:00Z</updated>
     </entry>
@@ -63,10 +58,8 @@ A picture gallery</p>
         <title>A brick factory</title>
         <link rel="alternate" href="/gallery/factory.html" />
         <id>/gallery/factory</id>
-        <summary><p>a view above reality</p>
-</summary>
-        <content><p>Open this post to see a gallery!</p>
-</content>
+        <summary>a view above reality</summary>
+        <content>Open this post to see a gallery!</content>
         
         <updated>2020-09-19T00:00:00Z</updated>
     </entry>
@@ -75,10 +68,8 @@ A picture gallery</p>
         <title>A couch outside</title>
         <link rel="alternate" href="/gallery/real.html" />
         <id>/gallery/real</id>
-        <summary><p>a view with reality</p>
-</summary>
-        <content><p>Open this post to see a gallery!</p>
-</content>
+        <summary>a view with reality</summary>
+        <content>Open this post to see a gallery!</content>
         
         <updated>2020-09-19T00:00:00Z</updated>
     </entry>
@@ -88,14 +79,13 @@ A picture gallery</p>
         <title>Mu</title>
         <link rel="alternate" href="/mu.html" />
         <id>/mu</id>
-        <summary><p>A monk asked Joshu, &quot;Has the dog the Buddha nature?&quot; </p>
-</summary>
-        <content><p>A monk asked Joshu, &quot;Has the dog the Buddha nature?&quot;<br />
-Joshu replied, &quot;Mu&quot;</p>
-<h3>Mumon's Comment:</h3>
+        <summary>A monk asked Joshu, &quot;Has the dog the Buddha nature?&quot; </summary>
+        <content><p>A monk asked Joshu, “Has the dog the Buddha nature?”<br />
+Joshu replied, “Mu”</p>
+<h3>Mumon’s Comment:</h3>
 <blockquote>
-<p>For the pursuit of Zen, you must pass through the barriers (gates) set up by the Zen masters. To attain his mysterious awareness one must completely uproot all the normal workings of one's mind. If you do not pass through the barriers, nor uproot the normal workings of your mind, whatever you do and whatever you think is a tangle of ghost. Now what are the barriers? This one word &quot;Mu&quot; is the sole barrier. This is why it is called the Gateless Gate of Zen. The one who passes through this barrier shall meet with Joshu face to face and also see with the same eyes, hear with the same ears and walk together in the long train of the patriarchs. Wouldn't that be pleasant?<br />
-Would you like to pass through this barrier? Then concentrate your whole body, with its 360 bones and joints, and 84,000 hair follicles, into this question of what &quot;Mu&quot; is; day and night, without ceasing, hold it before you. It is neither nothingness, nor its relative &quot;not&quot; of &quot;is&quot; and &quot;is not.&quot; It must be like gulping a hot iron ball that you can neither swallow nor spit out.</p>
+<p>For the pursuit of Zen, you must pass through the barriers (gates) set up by the Zen masters. To attain his mysterious awareness one must completely uproot all the normal workings of one’s mind. If you do not pass through the barriers, nor uproot the normal workings of your mind, whatever you do and whatever you think is a tangle of ghost. Now what are the barriers? This one word “Mu” is the sole barrier. This is why it is called the Gateless Gate of Zen. The one who passes through this barrier shall meet with Joshu face to face and also see with the same eyes, hear with the same ears and walk together in the long train of the patriarchs. Wouldn’t that be pleasant?<br />
+Would you like to pass through this barrier? Then concentrate your whole body, with its 360 bones and joints, and 84,000 hair follicles, into this question of what “Mu” is; day and night, without ceasing, hold it before you. It is neither nothingness, nor its relative “not” of “is” and “is not.” It must be like gulping a hot iron ball that you can neither swallow nor spit out.</p>
 </blockquote>
 </content>
         <updated>2020-09-18T00:00:00Z</updated>
@@ -106,10 +96,10 @@ Would you like to pass through this barrier? Then concentrate your whole body, w
         <title>Jabberwocky</title>
         <link rel="alternate" href="/jabberwocky.html" />
         <id>/jabberwocky</id>
-        <summary><p>’Twas brillig, and the slithy toves<br />
-Did gyre and gimble in the wabe:<br />
-All mimsy were the borogoves,<br />
-And the mome raths outgrabe.</p>
+        <summary>’Twas brillig, and the slithy toves  
+Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+And the mome raths outgrabe.  
 </summary>
         <content><p>’Twas brillig, and the slithy toves<br />
 Did gyre and gimble in the wabe:<br />
@@ -148,12 +138,12 @@ And the mome raths outgrabe.</p>
         <title>Gutei's Finger</title>
         <link rel="alternate" href="/finger.html" />
         <id>/finger</id>
-        <summary><p>Gutei raised his finger whenever he was asked a question about Zen. A boy attendant began to imitate him in this way. When a visitor asked the boy what his master had preached about, the boy raised his finger.</p>
+        <summary>Gutei raised his finger whenever he was asked a question about Zen. A boy attendant began to imitate him in this way. When a visitor asked the boy what his master had preached about, the boy raised his finger.
 </summary>
         <content><p>Gutei raised his finger whenever he was asked a question about Zen. A boy attendant began to imitate him in this way. When a visitor asked the boy what his master had preached about, the boy raised his finger.</p>
-<p>Gutei heard about the boy's mischief, seized him and cut off his finger with a knife. As the boy screamed and ran out of the room, Gutei called to him. When the boy turned his head to Gutei, Gutei raised up his own finger. In that instant the boy was enlightened.</p>
-<p>When Gutei was about to die, he said to the assembled monks,&quot;I received this one-finger Zen from Tenryu. I used it all my life and yet could not exhaust it&quot; and then he passed away.</p>
-<h3>Mumon's Comment:</h3>
+<p>Gutei heard about the boy’s mischief, seized him and cut off his finger with a knife. As the boy screamed and ran out of the room, Gutei called to him. When the boy turned his head to Gutei, Gutei raised up his own finger. In that instant the boy was enlightened.</p>
+<p>When Gutei was about to die, he said to the assembled monks,“I received this one-finger Zen from Tenryu. I used it all my life and yet could not exhaust it” and then he passed away.</p>
+<h3>Mumon’s Comment:</h3>
 <blockquote>
 <p>Where Gutei and the boy attained enlightenment is not at the tip of the finger itself. If this simple truth is not comprehended, Tenryu, Gutei, the boy and you also will be bound together once and for all.</p>
 </blockquote>
@@ -166,13 +156,13 @@ And the mome raths outgrabe.</p>
         <title>Nansen cuts a cat in two</title>
         <link rel="alternate" href="/half-cat.html" />
         <id>/half-cat</id>
-        <summary><p>Nansen saw the monks of the eastern and western halls fighting over a baby cat. He seized the cat and said, &quot;If (any of) you can say (a word of Zen), you can spare the cat. Otherwise I will kill it.&quot;</p>
+        <summary>Nansen saw the monks of the eastern and western halls fighting over a baby cat. He seized the cat and said, &quot;If (any of) you can say (a word of Zen), you can spare the cat. Otherwise I will kill it.&quot;
 </summary>
-        <content><p>Nansen saw the monks of the eastern and western halls fighting over a baby cat. He seized the cat and said, &quot;If (any of) you can say (a word of Zen), you can spare the cat. Otherwise I will kill it.&quot; No one could answer. So Nansen cut the cat in two.</p>
-<p>That evening Joshu returned and Nansen told him what had happened. Joshu thereupon took off his sandals and, placing them on his head, walked away. Nansen said, &quot;If only you had been there, you could have saved the cat.&quot;</p>
-<h3>Mumon's Comment:</h3>
+        <content><p>Nansen saw the monks of the eastern and western halls fighting over a baby cat. He seized the cat and said, “If (any of) you can say (a word of Zen), you can spare the cat. Otherwise I will kill it.” No one could answer. So Nansen cut the cat in two.</p>
+<p>That evening Joshu returned and Nansen told him what had happened. Joshu thereupon took off his sandals and, placing them on his head, walked away. Nansen said, “If only you had been there, you could have saved the cat.”</p>
+<h3>Mumon’s Comment:</h3>
 <blockquote>
-<p>Why did Joshu put his sandals on his head? If you can answer this question with one word, you understand Nansen's efforts. If not, you are utterly in danger.</p>
+<p>Why did Joshu put his sandals on his head? If you can answer this question with one word, you understand Nansen’s efforts. If not, you are utterly in danger.</p>
 </blockquote>
 </content>
         <updated>2015-11-07T00:00:00Z</updated>
@@ -186,9 +176,9 @@ And the mome raths outgrabe.</p>
         <summary></summary>
         <content><p>Tuvan throat singing, Khoomei, is one particular variant of overtone singing practiced by people in Tuva and Siberia. In 2009, it was inscribed on the Representative List of the Intangible Cultural Heritage of Humanity of UNESCO.</p>
 <p>In Tuvan throat singing, the performer produces a fundamental pitch and—simultaneously—one or more pitches over that. The history of Tuvan throat singing reaches far back. Many male herders can throat sing, but women are beginning to practice the technique as well. The popularity of throat singing among Tuvans seems to have arisen as a result of geographic location and culture. The open landscape of Tuva allows for the sounds to carry a great distance. Ethnomusicologists studying throat singing in these areas mark khoomei as an integral part in the ancient pastoral animism still practiced today. Often, singers travel far into the countryside looking for the right river, or go up to the steppes of the mountainside to create the proper environment for throat-singing.</p>
-<p>The animistic world view of this region identifies the spirituality of objects in nature, not just in their shape or location, but in their sound as well. Thus, human mimicry of nature's sounds is seen as the root of throat singing. An example of this is the Tuvan story of the waterfall above the Buyant Göl (Deer River in Tuvan), where mysterious harmonic sounds are said to have attracted deer to bask in the waters, and where it is said harmonic sounds were first revealed to people. Indeed, the cultures in this part of Asia have developed many instruments and techniques to mimic the sounds of animals, wind, and water. While the cultures of this region share throat singing, their styles vary in breadth of development.</p>
+<p>The animistic world view of this region identifies the spirituality of objects in nature, not just in their shape or location, but in their sound as well. Thus, human mimicry of nature’s sounds is seen as the root of throat singing. An example of this is the Tuvan story of the waterfall above the Buyant Göl (Deer River in Tuvan), where mysterious harmonic sounds are said to have attracted deer to bask in the waters, and where it is said harmonic sounds were first revealed to people. Indeed, the cultures in this part of Asia have developed many instruments and techniques to mimic the sounds of animals, wind, and water. While the cultures of this region share throat singing, their styles vary in breadth of development.</p>
 </content>
-        <updated>2020-10-11T15:21:50Z</updated>
+        <updated>2022-05-27T16:23:27Z</updated>
     </entry>
     
 

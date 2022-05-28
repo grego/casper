@@ -65,29 +65,8 @@
 
 
     <url>
-        <loc>/categories/</loc>
-        <priority>0.2</priority>
-    </url>
-    
-    <url>
-        <loc>/categories/poetry/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-    <url>
-        <loc>/categories/kōans/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-
-    <url>
         <loc>/authors/</loc>
         <priority>0.2</priority>
-    </url>
-    
-    <url>
-        <loc>/authors/Mumon/</loc>
-        <priority>0.3</priority>
     </url>
     
     <url>
@@ -100,10 +79,20 @@
         <priority>0.3</priority>
     </url>
     
+    <url>
+        <loc>/authors/Mumon/</loc>
+        <priority>0.3</priority>
+    </url>
+    
 
     <url>
         <loc>/tags/</loc>
         <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/borogoves/</loc>
+        <priority>0.3</priority>
     </url>
     
     <url>
@@ -126,8 +115,19 @@
         <priority>0.3</priority>
     </url>
     
+
     <url>
-        <loc>/tags/borogoves/</loc>
+        <loc>/categories/</loc>
+        <priority>0.2</priority>
+    </url>
+    
+    <url>
+        <loc>/categories/kōans/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/categories/poetry/</loc>
         <priority>0.3</priority>
     </url>
     
